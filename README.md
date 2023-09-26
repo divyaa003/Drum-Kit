@@ -1,7 +1,7 @@
 # Drum Kit 🥁
 
 ## Description 🎶
-Drum Kit is a fun and interactive web application that allows you to play various drum sounds by clicking on buttons or using keyboard keys. It's a great way to create your own drumming beats and have some musical fun!
+Drum Kit is a fun and interactive web application that allows you to play various drum sounds by clicking on buttons. It's a great way to create your own drumming beats and have some musical fun!
 
 ## Features ✨
 - Play drum sounds by clicking on the buttons or using keyboard keys.
@@ -10,8 +10,7 @@ Drum Kit is a fun and interactive web application that allows you to play variou
 
 ## How to Use 🥁
 1. Click on the drum buttons with the mouse to play drum sounds.
-2. Alternatively, you can press the corresponding keyboard keys (w, a, s, d, j, k, l) to trigger the drum sounds.
-3. Experiment and create your own beats!
+2. Experiment and create your own beats!
 
 ## Technologies Used 💻
 - HTML
@@ -30,7 +29,7 @@ You can access the Drum Kit by opening the `index.html` file in a web browser. E
 The Drum Kit adapts to different screen sizes for an optimal user experience.
 
 ## Author 👩‍💻
-- Your Name
+- Divya
   - Email: kum.divya.r@gmail.com
   - GitHub: [divyaa003](https://github.com/divyaa003)
 
