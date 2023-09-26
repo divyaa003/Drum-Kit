@@ -18,7 +18,7 @@ Drum Kit is a fun and interactive web application that allows you to play variou
 - JavaScript
 - Audio files for drum sounds
 
-## Demo 💻
+## Demo 🎮
 You can try the Drum-Kit live by visiting the [Demo](https://divyaa003.github.io/Drum-Kit/).
 
 
